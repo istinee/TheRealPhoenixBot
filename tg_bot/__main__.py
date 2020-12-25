@@ -25,7 +25,7 @@ Hi {}, my name is {}!
 You can find the list of available commands with /help.
 """
 
-BOT_IMAGE = "https://telegra.ph/file/4e399864eef6f3380d679.jpg"
+BOT_IMAGE = "https://telegra.ph/file/832a298d6cd999992f4db.mp4"
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
@@ -149,8 +149,8 @@ def start(bot: Bot, update: Update, args: List[str]):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Add Pɧơɛnıх to your group.",
-                                url="t.me/{}?startgroup=botstart".format(bot.username),
+                                text="Add sistine fibel to your group.",
+                                url="t.me/sistine_fibel_bot?startgroup=botstart".format(bot.username),
                             )
                         ]
                     ]
